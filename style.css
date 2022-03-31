@@ -1,0 +1,11 @@
+body {
+  font-family: sans-serif;
+}
+
+#gameZone {
+  width: 90vw;
+  height: 90vh;
+  background-color: antiquewhite;
+  margin: 5vh 5vw;
+  display: flex;
+}
